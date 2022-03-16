@@ -1,2 +1,1 @@
-# vegan-game
-this will convince you to become vegan
+print ("hello user are u a vegan?)
